@@ -34,6 +34,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCODE" **alt="VSCODE" width="40" height="40"/>
 
-
-
 </div>
+### :storm: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-Ryuzaki101&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
