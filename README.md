@@ -35,7 +35,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCODE" **alt="VSCODE" width="40" height="40"/>
 
 </div>
-### 🥇: My Stats :
-[![https://github-readme-streak-stats.herokuapp.com/?user=Ryuzaki101]]
 
 
