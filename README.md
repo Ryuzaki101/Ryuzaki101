@@ -1,9 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
-                                                                  ### Hi there 👋
-</div>=
-
-Here are some ideas to get you started:
+                                                                 
+</div>
+                                                 ### Hi there 👋 ### Hi there 👋 ### Hi there 👋
 
 - 🔭 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco.
 
