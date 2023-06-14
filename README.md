@@ -5,9 +5,9 @@
                                                  
                                                           ### Hi there 👋
 
-- 🔭 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco.
+- 🔭 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco.
 
-- :telescope: I’m working as a Software Engineer and contributing to backend for building web applications in building automation and dabbling in Emnbedded and Java programming.
+- :telescope: I’ve spent the last 5 years m working as a Software Engineer and contributing to backend for building web applications in building automation and dabbling in Embedded C PLC Programming as well as Java 8 Projects.
 
 - :seedling: Exploring Technical Python Content revolving around Machine Learning and building Neural Networks.
 
