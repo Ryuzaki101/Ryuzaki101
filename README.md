@@ -8,7 +8,7 @@
 
 - 🔭 I am a Telecom Developer in the building automation branch <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco.
 
-- :telescope: After dabbling during studies in Embedded C. I’ve spent the last 5 years working as a Software Developer in the building automation branch and contributing to the backend for building web applications for PLC visualization and programming Java Firmware.
+- :telescope: After dabbling during studies in Embedded C projects. I’ve spent the last 5 years working as a Software Developer in the building automation branch meanwhile contributing to the backend dev of web applications for PLC visualization and controlling and programming Java Firmware.
 
 - :seedling: Exploring Technical Python Content revolving around Machine Learning and building Neural Networks.
 
