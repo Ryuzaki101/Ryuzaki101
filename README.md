@@ -6,13 +6,13 @@
                                                           ### Hi there 👋
 ### :man_technologist: About Me :
 
-- 🔭 I am a Telecom Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco.
+- 🔭 I am a Telecom Developer in the building automation branch <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco.
 
-- :telescope: I’ve spent the last 5 years m working as a Software Engineer and contributing to backend for building web applications in building automation and dabbling in Embedded C PLC Programming as well as Java 8 Projects.
+- :telescope: After dabbling during studies in Embedded C. I’ve spent the last 5 years working as a Software Developer in the building automation branch and contributing to the backend for building web applications for PLC visualization and programming Java Firmware.
 
 - :seedling: Exploring Technical Python Content revolving around Machine Learning and building Neural Networks.
 
-- :zap: In my free time, I chill and spend time with Friends and Family.
+- :zap: I like to spend my free time relaxing with Friends and Family.
 
 - :mailbox: How to reach me: [hirako.taisho@gmail.com].
 
