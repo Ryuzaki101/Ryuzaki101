@@ -6,7 +6,7 @@
                                                           ### Hi there 👋
 ### :man_technologist: About Me :
 
-- 🔭 I am a Telecom Developer in the building automation branch <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco.
+- 🔭 I am a Telecom engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco.
 
 - :telescope: After dabbling during studies in Embedded C projects. I’ve spent the last 5 years working as a Software Developer in the building automation branch meanwhile contributing to the backend dev of web applications for PLC visualization and controlling and programming Java Firmware.
 
